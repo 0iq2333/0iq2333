@@ -51,10 +51,10 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2024-07 | 在看👀 <a href='http://movie.douban.com/subject/35926862/' target='_blank'>长相思 第二季</a> ⭐⭐⭐⭐ |
-| 2024-04 | 看过😎 <a href='http://movie.douban.com/subject/36118319/' target='_blank'>怪奇物语 第四季</a> ⭐⭐⭐⭐ |
-| 2024-03 | 看过😎 <a href='http://movie.douban.com/subject/36309129/' target='_blank'>怪奇物语 第三季</a> ⭐⭐⭐⭐ |
-| 2024-01 | 看过😎 <a href='http://movie.douban.com/subject/36205705/' target='_blank'>怪奇物语 第二季</a> ⭐⭐⭐⭐ |
+| 2024-07 | 在看👀 <a href='https://movie.douban.com/subject/36553434/' target='_blank'>长相思 第二季</a> ⭐⭐⭐⭐ |
+| 2024-05 | 看过😎 <a href='https://movie.douban.com/subject/1308807/' target='_blank'>哈尔的移动城堡</a> ⭐⭐⭐⭐ |
+| 2024-05 | 看过😎 <a href='https://movie.douban.com/subject/36069854/' target='_blank'>猩球崛起:新世界</a> ⭐⭐⭐⭐ |
+| 2024-04 | 看过😎 <a href='https://movie.douban.com/subject/27194292/' target='_blank'>怪奇物语 第四季</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
