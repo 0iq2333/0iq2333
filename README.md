@@ -52,7 +52,7 @@
 | Date | Title |
 | :-: | :---: |
 | 2024-07 | 在看👀 <a href='https://movie.douban.com/subject/36188849/' target='_blank'>唐朝诡事录之西行</a> ⭐⭐⭐⭐ |
-| 2024-07 | 在看👀 <a href='https://movie.douban.com/subject/36553434/' target='_blank'>长相思 第二季</a> ⭐⭐⭐⭐ |
+| 2024-07 | 看过😎 <a href='https://movie.douban.com/subject/36553434/' target='_blank'>长相思 第二季</a> ⭐⭐⭐⭐ |
 | 2024-05 | 看过😎 <a href='https://movie.douban.com/subject/1308807/' target='_blank'>哈尔的移动城堡</a> ⭐⭐⭐⭐ |
 | 2024-05 | 看过😎 <a href='https://movie.douban.com/subject/36069854/' target='_blank'>猩球崛起:新世界</a> ⭐⭐⭐⭐ |
 
