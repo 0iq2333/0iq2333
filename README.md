@@ -1,4 +1,4 @@
-<h3 align="center"> Zhongyi Chang / 0iq2333 </h3>
+![008BD5F9](https://github.com/user-attachments/assets/fe846233-f186-4200-a698-73c6c5e5748e)<h3 align="center"> Zhongyi Chang / 0iq2333 </h3>
 
 
 <p align="center">
@@ -38,6 +38,7 @@
 <!-- START_SECTION:photo -->
 | Date | Title |
 | :-: | :---: |
+| 2024-08(soon) | <a href='' target='_blank'>杭州</a> |
 | 2024-05 | <a href='https://0iq2333.github.io/projects/6_project/' target='_blank'>台州</a> |
 | 2024-05 | <a href='https://0iq2333.github.io/projects/5_project/' target='_blank'>扬州</a> |
 | 2023-08 | <a href='https://0iq2333.github.io/projects/3_project/' target='_blank'>海南</a> |
@@ -51,6 +52,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2024-08 | 再看👀 <a href='https://movie.douban.com/subject/2373195/' target='_blank'>绝命毒师</a> ⭐⭐⭐⭐ |
 | 2024-08 | 看过😎 <a href='https://movie.douban.com/subject/36188849/' target='_blank'>唐朝诡事录之西行</a> ⭐⭐⭐⭐ |
 | 2024-07 | 看过😎 <a href='https://movie.douban.com/subject/36553434/' target='_blank'>长相思 第二季</a> ⭐⭐⭐⭐ |
 | 2024-05 | 看过😎 <a href='https://movie.douban.com/subject/1308807/' target='_blank'>哈尔的移动城堡</a> ⭐⭐⭐⭐ |
