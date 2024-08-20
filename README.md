@@ -38,7 +38,7 @@
 <!-- START_SECTION:photo -->
 | Date | Title |
 | :-: | :---: |
-| 2024-08(soon) | <a href='https://0iq2333.github.io/projects/7_project/' target='_blank'>杭州</a> |
+| 2024-08 | <a href='https://0iq2333.github.io/projects/7_project/' target='_blank'>杭州</a> |
 | 2024-05 | <a href='https://0iq2333.github.io/projects/6_project/' target='_blank'>台州</a> |
 | 2024-05 | <a href='https://0iq2333.github.io/projects/5_project/' target='_blank'>扬州</a> |
 | 2023-08 | <a href='https://0iq2333.github.io/projects/3_project/' target='_blank'>海南</a> |
