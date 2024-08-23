@@ -31,7 +31,7 @@
 
 <table width="100%" align="center" padding="0" margin="0">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33.3%">
 
 **🤹‍♀️ <a href="https://0iq2333.github.io/miscellaneous/" target="_blank">Recent Photos</a>**
 
@@ -45,7 +45,8 @@
 | 2023-07 | <a href='https://0iq2333.github.io/projects/2_project/' target='_blank'>济南&泰安</a> |
 <!-- END_SECTION:photo -->
 </td>
-<td valign="top" width="50%">
+
+<td valign="top" width="33.3%">
 
 <!-- **🤾‍♂️ <a href="https://www.douban.com/people/beiyuouo/" target="_blank">Funny Soul</a>** -->
 **🤾‍♂️ <a target="_blank">Funny Soul</a>**
@@ -53,12 +54,23 @@
 | Date | Title |
 | :-: | :---: |
 | 2024-08 | 再看👀 <a href='https://movie.douban.com/subject/35516711/' target='_blank'>柳舟记</a> ⭐⭐⭐⭐ |
-| 2024-08 | 再看👀 <a href='https://movie.douban.com/subject/2373195/' target='_blank'>绝命毒师</a> ⭐⭐⭐⭐ |
+| 2024-08 | 想看🤔 <a href='https://movie.douban.com/subject/2373195/' target='_blank'>绝命毒师</a> ⭐⭐⭐⭐ |
 | 2024-08 | 看过😎 <a href='https://movie.douban.com/subject/36188849/' target='_blank'>唐朝诡事录之西行</a> ⭐⭐⭐⭐ |
 | 2024-07 | 看过😎 <a href='https://movie.douban.com/subject/36553434/' target='_blank'>长相思 第二季</a> ⭐⭐⭐⭐ |
 | 2024-05 | 看过😎 <a href='https://movie.douban.com/subject/1308807/' target='_blank'>哈尔的移动城堡</a> ⭐⭐⭐⭐ |
 | 2024-05 | 看过😎 <a href='https://movie.douban.com/subject/36069854/' target='_blank'>猩球崛起:新世界</a> ⭐⭐⭐⭐ |
+<!-- END_SECTION:douban -->
+</td>
 
+<td valign="top" width="33.3%">
+
+<!-- **🤾‍♂️ <a href="https://www.douban.com/people/beiyuouo/" target="_blank">Relaxed Moment</a>** -->
+**🤾‍♂️ <a target="_blank">Relaxed Moment</a>**
+<!-- START_SECTION:douban -->
+| Date | Title |
+| :-: | :---: |
+| 2024-08 | 想看🤔 <a href='' target='_blank'>老头环</a> ⭐⭐⭐⭐ |
+| 2024-08 | 再玩🎮 <a href='' target='_blank'>黑神话悟空</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>
