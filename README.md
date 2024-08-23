@@ -31,6 +31,19 @@
 
 <table width="100%" align="center" padding="0" margin="0">
 <tr>
+
+<td valign="top" width="33.3%">
+
+<!-- **🎮 <a href="" target="_blank">Relaxed Moment</a>** -->
+**🎮 <a target="_blank">Relaxed Moment</a>**
+<!-- START_SECTION:game -->
+| Date | Title |
+| :-: | :---: |
+| 2024-08 | 想看🤔 <a href='' target='_blank'>艾尔登法环</a> ⭐⭐⭐⭐ |
+| 2024-08 | 再玩🐒 <a href='' target='_blank'>黑神话悟空</a> ⭐⭐⭐⭐ |
+<!-- END_SECTIONgame -->
+</td>
+
 <td valign="top" width="33.3%">
 
 **🤹‍♀️ <a href="https://0iq2333.github.io/miscellaneous/" target="_blank">Recent Photos</a>**
@@ -62,17 +75,7 @@
 <!-- END_SECTION:douban -->
 </td>
 
-<td valign="top" width="33.3%">
 
-<!-- **🎮 <a href="" target="_blank">Relaxed Moment</a>** -->
-**🎮 <a target="_blank">Relaxed Moment</a>**
-<!-- START_SECTION:game -->
-| Date | Title |
-| :-: | :---: |
-| 2024-08 | 想看🤔 <a href='' target='_blank'>老头环</a> ⭐⭐⭐⭐ |
-| 2024-08 | 再玩🐒 <a href='' target='_blank'>黑神话悟空</a> ⭐⭐⭐⭐ |
-<!-- END_SECTIONgame -->
-</td>
 
 </tr>
 
