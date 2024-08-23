@@ -48,7 +48,7 @@
 
 <td valign="top" width="33.3%">
 
-<!-- **🤾‍♂️ <a href="https://www.douban.com/people/beiyuouo/" target="_blank">Funny Soul</a>** -->
+<!-- **🤾‍♂️ <a href="" target="_blank">Funny Soul</a>** -->
 **🤾‍♂️ <a target="_blank">Funny Soul</a>**
 <!-- START_SECTION:douban -->
 | Date | Title |
@@ -64,15 +64,16 @@
 
 <td valign="top" width="33.3%">
 
-<!-- **🤾‍♂️ <a href="https://www.douban.com/people/beiyuouo/" target="_blank">Relaxed Moment</a>** -->
-**🤾‍♂️ <a target="_blank">Relaxed Moment</a>**
-<!-- START_SECTION:douban -->
+<!-- **🎮 <a href="" target="_blank">Relaxed Moment</a>** -->
+**🎮 <a target="_blank">Relaxed Moment</a>**
+<!-- START_SECTION:game -->
 | Date | Title |
 | :-: | :---: |
 | 2024-08 | 想看🤔 <a href='' target='_blank'>老头环</a> ⭐⭐⭐⭐ |
-| 2024-08 | 再玩🎮 <a href='' target='_blank'>黑神话悟空</a> ⭐⭐⭐⭐ |
-<!-- END_SECTION:douban -->
+| 2024-08 | 再玩🐒 <a href='' target='_blank'>黑神话悟空</a> ⭐⭐⭐⭐ |
+<!-- END_SECTIONgame -->
 </td>
+
 </tr>
 
 <!-- START_SECTION:github-xxx -->
