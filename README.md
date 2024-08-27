@@ -39,6 +39,7 @@
 <!-- START_SECTION:game -->
 | Date | Title |
 | :-: | :---: |
+| 2024-08 | 想玩🤔 <a href='' target='_blank'>蜘蛛侠2</a> ⭐⭐⭐⭐ |
 | 2024-08 | 想玩🤔 <a href='' target='_blank'>艾尔登法环</a> ⭐⭐⭐⭐ |
 | 2024-08 | 再玩🐒 <a href='' target='_blank'>黑神话悟空</a> ⭐⭐⭐⭐ |
 <!-- END_SECTIONgame -->
@@ -66,7 +67,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2024-08 | 再看👀 <a href='https://movie.douban.com/subject/35516711/' target='_blank'>柳舟记</a> ⭐⭐⭐⭐ |
+| 2024-08 | 再看👀 <a href='https://movie.douban.com/subject/35516711/' target='_blank'>柳舟记</a> ⭐⭐⭐ |
 | 2024-08 | 想看🤔 <a href='https://movie.douban.com/subject/2373195/' target='_blank'>绝命毒师</a> ⭐⭐⭐⭐ |
 | 2024-08 | 看过😎 <a href='https://movie.douban.com/subject/36188849/' target='_blank'>唐朝诡事录之西行</a> ⭐⭐⭐⭐ |
 | 2024-07 | 看过😎 <a href='https://movie.douban.com/subject/36553434/' target='_blank'>长相思 第二季</a> ⭐⭐⭐⭐ |
