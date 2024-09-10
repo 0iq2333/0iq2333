@@ -1,4 +1,4 @@
-![1B929F14](https://github.com/user-attachments/assets/1d4065a5-fb1f-4832-b7a2-66e103386585)<h3 align="center"> Zhongyi Chang / 0iq2333 </h3>
+<h3 align="center"> Zhongyi Chang / 0iq2333 </h3>
 
 
 <p align="center">
