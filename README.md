@@ -1,4 +1,4 @@
-<h3 align="center"> Zhongyi Chang / 0iq2333 </h3>
+![1B929F14](https://github.com/user-attachments/assets/1d4065a5-fb1f-4832-b7a2-66e103386585)<h3 align="center"> Zhongyi Chang / 0iq2333 </h3>
 
 
 <p align="center">
@@ -39,9 +39,9 @@
 <!-- START_SECTION:game -->
 | Date | Title |
 | :-: | :---: |
-| 2024-08 | 想玩🤔 <a href='' target='_blank'>蜘蛛侠2</a> ⭐⭐⭐⭐ |
+| 2024-08 | 在玩😎 <a href='' target='_blank'>蜘蛛侠2</a> ⭐⭐⭐⭐ |
 | 2024-08 | 想玩🤔 <a href='' target='_blank'>艾尔登法环</a> ⭐⭐⭐⭐ |
-| 2024-08 | 再玩🐒 <a href='' target='_blank'>黑神话悟空</a> ⭐⭐⭐⭐ |
+| 2024-08 | 在玩🐒 <a href='' target='_blank'>黑神话悟空</a> ⭐⭐⭐⭐ |
 <!-- END_SECTIONgame -->
 </td>
 
@@ -67,8 +67,8 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2024-08 | 再看👀 <a href='https://movie.douban.com/subject/35516711/' target='_blank'>柳舟记</a> ⭐⭐⭐ |
-| 2024-08 | 想看🤔 <a href='https://movie.douban.com/subject/2373195/' target='_blank'>绝命毒师</a> ⭐⭐⭐⭐ |
+| 2024-09 | 看过😎 <a href='https://movie.douban.com/subject/35516711/' target='_blank'>柳舟记</a> ⭐⭐⭐ |
+| 2024-09 | 在看🤔 <a href='https://movie.douban.com/subject/2373195/' target='_blank'>绝命毒师</a> ⭐⭐⭐⭐ |
 | 2024-08 | 看过😎 <a href='https://movie.douban.com/subject/36188849/' target='_blank'>唐朝诡事录之西行</a> ⭐⭐⭐⭐ |
 | 2024-07 | 看过😎 <a href='https://movie.douban.com/subject/36553434/' target='_blank'>长相思 第二季</a> ⭐⭐⭐⭐ |
 | 2024-05 | 看过😎 <a href='https://movie.douban.com/subject/1308807/' target='_blank'>哈尔的移动城堡</a> ⭐⭐⭐⭐ |
