@@ -67,7 +67,6 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2024-09 | 看过😎 <a href='https://movie.douban.com/subject/35516711/' target='_blank'>柳舟记</a> ⭐⭐⭐ |
 | 2024-09 | 在看🤔 <a href='https://movie.douban.com/subject/2373195/' target='_blank'>绝命毒师</a> ⭐⭐⭐⭐ |
 | 2024-08 | 看过😎 <a href='https://movie.douban.com/subject/36188849/' target='_blank'>唐朝诡事录之西行</a> ⭐⭐⭐⭐ |
 | 2024-07 | 看过😎 <a href='https://movie.douban.com/subject/36553434/' target='_blank'>长相思 第二季</a> ⭐⭐⭐⭐ |
