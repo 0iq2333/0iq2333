@@ -39,9 +39,9 @@
 <!-- START_SECTION:game -->
 | Date | Title |
 | :-: | :---: |
+| 2024-10 | 通关🐒 <a href='' target='_blank'>黑神话悟空</a> ⭐⭐⭐⭐ |
 | 2024-08 | 在玩😎 <a href='' target='_blank'>蜘蛛侠2</a> ⭐⭐⭐⭐ |
 | 2024-08 | 想玩🤔 <a href='' target='_blank'>艾尔登法环</a> ⭐⭐⭐⭐ |
-| 2024-08 | 在玩🐒 <a href='' target='_blank'>黑神话悟空</a> ⭐⭐⭐⭐ |
 <!-- END_SECTIONgame -->
 </td>
 
