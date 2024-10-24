@@ -39,6 +39,7 @@
 <!-- START_SECTION:game -->
 | Date | Title |
 | :-: | :---: |
+| 2024-10 | 在玩😎 <a href='' target='_blank'>荒野大镖客2</a> ⭐⭐⭐⭐ |
 | 2024-10 | 通关🐒 <a href='' target='_blank'>黑神话悟空</a> ⭐⭐⭐⭐ |
 | 2024-08 | 在玩😎 <a href='' target='_blank'>蜘蛛侠2</a> ⭐⭐⭐⭐ |
 | 2024-08 | 想玩🤔 <a href='' target='_blank'>艾尔登法环</a> ⭐⭐⭐⭐ |
@@ -52,11 +53,11 @@
 <!-- START_SECTION:photo -->
 | Date | Title |
 | :-: | :---: |
+| 2023-11(soon) | <a href='' target='_blank'>黄山</a> |
 | 2024-08 | <a href='https://0iq2333.github.io/projects/7_project/' target='_blank'>杭州</a> |
 | 2024-05 | <a href='https://0iq2333.github.io/projects/6_project/' target='_blank'>台州</a> |
 | 2024-05 | <a href='https://0iq2333.github.io/projects/5_project/' target='_blank'>扬州</a> |
 | 2023-08 | <a href='https://0iq2333.github.io/projects/3_project/' target='_blank'>海南</a> |
-| 2023-07 | <a href='https://0iq2333.github.io/projects/2_project/' target='_blank'>济南&泰安</a> |
 <!-- END_SECTION:photo -->
 </td>
 
