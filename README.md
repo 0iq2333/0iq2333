@@ -53,7 +53,7 @@
 <!-- START_SECTION:photo -->
 | Date | Title |
 | :-: | :---: |
-| 2023-11(soon) | <a href='' target='_blank'>黄山</a> |
+| 2023-11 | <a href='https://0iq2333.github.io/projects/8_project/' target='_blank'>黄山</a> |
 | 2024-08 | <a href='https://0iq2333.github.io/projects/7_project/' target='_blank'>杭州</a> |
 | 2024-05 | <a href='https://0iq2333.github.io/projects/6_project/' target='_blank'>台州</a> |
 | 2024-05 | <a href='https://0iq2333.github.io/projects/5_project/' target='_blank'>扬州</a> |
@@ -68,7 +68,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2024-09 | 在看🤔 <a href='https://movie.douban.com/subject/2373195/' target='_blank'>绝命毒师</a> ⭐⭐⭐⭐ |
+| 2024-11 | 在看🤔 <a href='https://movie.douban.com/subject/35662223/' target='_blank'>去有风的地方</a> ⭐⭐⭐⭐ |
 | 2024-08 | 看过😎 <a href='https://movie.douban.com/subject/36188849/' target='_blank'>唐朝诡事录之西行</a> ⭐⭐⭐⭐ |
 | 2024-07 | 看过😎 <a href='https://movie.douban.com/subject/36553434/' target='_blank'>长相思 第二季</a> ⭐⭐⭐⭐ |
 | 2024-05 | 看过😎 <a href='https://movie.douban.com/subject/1308807/' target='_blank'>哈尔的移动城堡</a> ⭐⭐⭐⭐ |
