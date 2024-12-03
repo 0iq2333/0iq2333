@@ -21,7 +21,7 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 - 🔭 I’m currently working on [**SEU (Southeast University)**](https://cse.seu.edu.cn/), majoring on master's degree in software engineering.
-- 🌱 My current research interests focus on federated learning, distributed optimization under communication contraints [>more](https://0iq2333.github.io/).
+- 🌱 My current research interests focus on online optimization, federated learning, distributed optimization under communication contraints [>more](https://0iq2333.github.io/).
 - 📫 You can reach me at [zychang@seu.edu.cn](mailto:zychang@seu.edu.cn).
 - 🎨 I am a lover of life and love experiencing the good things with my friends! Feel free to share interesting things about academia and life with me!
 
